@@ -1,0 +1,1303 @@
+﻿1,Apple,Intel Core i5 2.3GHz
+2,Apple,Intel Core i5 1.8GHz
+3,HP,Intel Core i5 7200U 2.5GHz
+4,Apple,Intel Core i7 2.7GHz
+5,Apple,Intel Core i5 3.1GHz
+6,Acer,AMD A9-Series 9420 3GHz
+7,Apple,Intel Core i7 2.2GHz
+8,Apple,Intel Core i5 1.8GHz
+9,Asus,Intel Core i7 8550U 1.8GHz
+10,Acer,Intel Core i5 8250U 1.6GHz
+11,HP,Intel Core i5 7200U 2.5GHz
+12,HP,Intel Core i3 6006U 2GHz
+13,Apple,Intel Core i7 2.8GHz
+14,Dell,Intel Core i3 6006U 2GHz
+15,Apple,Intel Core M m3 1.2GHz
+16,Apple,Intel Core i5 2.3GHz
+17,Dell,Intel Core i7 7500U 2.7GHz
+18,Apple,Intel Core i7 2.9GHz
+19,Lenovo,Intel Core i3 7100U 2.4GHz
+20,Dell,Intel Core i5 8250U 1.6GHz
+21,Asus,Intel Atom x5-Z8350 1.44GHz
+22,Lenovo,Intel Core i5 7300HQ 2.5GHz
+23,HP,AMD E-Series E2-9000e 1.5GHz
+24,Dell,Intel Core i5 8250U 1.6GHz
+25,HP,Intel Core i7 8550U 1.8GHz
+26,Dell,Intel Core i3 6006U 2GHz
+27,Apple,Intel Core i5 1.6GHz
+28,Dell,Intel Core i5 8250U 1.6GHz
+29,Dell,Intel Core i7 8650U 1.9GHz
+30,HP,Intel Core i5 8250U 1.6GHz
+31,Chuwi,Intel Atom x5-Z8300 1.44GHz
+32,Asus,AMD E-Series E2-6110 1.5GHz
+33,HP,AMD A6-Series 9220 2.5GHz
+34,Dell,Intel Core i7 8550U 1.8GHz
+35,Apple,Intel Core i5 1.6GHz
+36,Lenovo,Intel Celeron Dual Core N3350 1.1GHz
+37,Acer,Intel Core i3 7130U 2.7GHz
+38,Dell,Intel Core i5 8250U 1.6GHz
+39,HP,Intel Core i5 7200U 2.5GHz
+40,HP,Intel Core i5 8250U 1.6GHz
+41,Asus,Intel Core i3 6006U 2GHz
+42,Dell,Intel Core i7 7700HQ 2.8GHz
+43,Asus,Intel Core i5 7200U 2.5GHz
+44,Acer,Intel Core i5 8250U 1.6GHz
+45,Dell,Intel Core i5 8250U 1.6GHz
+46,Apple,Intel Core i5 2.0GHz
+47,Lenovo,Intel Core i3 6006U 2GHz
+48,Asus,AMD Ryzen 1700 3GHz
+49,Dell,Intel Core i5 7200U 2.5GHz
+50,Asus,Intel Pentium Quad Core N4200 1.1GHz
+51,Lenovo,Intel Atom x5-Z8550 1.44GHz
+52,Acer,Intel Core i7 8550U 1.8GHz
+53,HP,AMD A6-Series 9220 2.5GHz
+54,HP,Intel Core i7 8550U 1.8GHz
+55,Acer,Intel Core i3 7100U 2.4GHz
+56,Dell,Intel Core i7 8550U 1.8GHz
+57,HP,Intel Core i3 6006U 2GHz
+58,Asus,Intel Core i5 7200U 2.5GHz
+59,MSI,Intel Core i7 7700HQ 2.8GHz
+60,Asus,Intel Core i3 6006U 2GHz
+61,Dell,Intel Core i7 8550U 1.8GHz
+62,Dell,Intel Core i5 8250U 1.6GHz
+63,Lenovo,Intel Core i3 7130U 2.7GHz
+64,Asus,Intel Core i5 8250U 1.6GHz
+66,HP,Intel Core i5 7200U 2.5GHz
+67,Asus,Intel Core i7 7700HQ 2.8GHz
+68,HP,Intel Core i3 6006U 2GHz
+69,HP,Intel Celeron Dual Core N3060 1.6GHz
+70,Lenovo,Intel Core i5 7200U 2.5GHz
+71,Asus,Intel Core i7 7700HQ 2.8GHz
+72,Microsoft,Intel Core i5 7200U 2.5GHz
+73,Dell,Intel Core i7 8550U 1.8GHz
+74,Dell,Intel Core i7 8550U 1.8GHz
+75,MSI,Intel Core i5 7300HQ 2.5GHz
+76,Acer,Intel Core i3 6006U 2GHz
+77,Asus,Intel Core i7 7700HQ 2.8GHz
+78,Lenovo,Intel Core i5 7200U 2.5GHz
+79,Dell,Intel Core i7 8550U 1.8GHz
+80,Acer,Intel Core i3 7130U 2.7GHz
+81,HP,Intel Core i5 8250U 1.6GHz
+82,Dell,Intel Core i5 8250U 1.6GHz
+83,Apple,Intel Core i5 1.3GHz
+84,HP,Intel Core i5 8250U 1.6GHz
+85,Lenovo,AMD A6-Series 9220 2.5GHz
+86,Acer,AMD A9-Series 9420 3GHz
+87,Dell,Intel Core i7 7700HQ 2.8GHz
+88,HP,Intel Core i7 8550U 1.8GHz
+89,HP,Intel Core i5 7200U 2.5GHz
+90,Asus,Intel Core i7 7700HQ 2.8GHz
+91,Dell,Intel Core i7 8550U 1.8GHz
+92,Asus,AMD FX 9830P 3GHz
+93,Acer,Intel Core i7 8550U 1.8GHz
+94,HP,Intel Core i7 8550U 1.8GHz
+95,Dell,Intel Core i5 7300HQ 2.5GHz
+96,Asus,Intel Core i7 7500U 2.7GHz
+97,Acer,Intel Core i5 8250U 1.6GHz
+98,Dell,Intel Core i7 7500U 2.7GHz
+99,Dell,Intel Core i3 6006U 2GHz
+100,Asus,Intel Core i3 7100U 2.4GHz
+102,HP,Intel Core i7 7700HQ 2.8GHz
+103,HP,Intel Core i7 7500U 2.7GHz
+104,HP,AMD E-Series E2-9000e 1.5GHz
+105,Dell,Intel Core i5 8250U 1.6GHz
+106,HP,Intel Core i7 7500U 2.7GHz
+107,Microsoft,Intel Core i5 7200U 2.5GHz
+108,HP,Intel Core i5 7200U 2.5GHz
+109,Lenovo,Intel Core i3 6006U 2GHz
+110,Asus,Intel Core i7 7500U 2.7GHz
+111,MSI,Intel Core i7 7700HQ 2.8GHz
+112,Lenovo,Intel Core i7 7500U 2.7GHz
+113,Asus,Intel Core i7 8550U 1.8GHz
+114,Dell,Intel Core i7 7560U 2.4GHz
+115,Lenovo,Intel Core i5 7200U 2.5GHz
+116,HP,Intel Core i5 8250U 1.6GHz
+117,Dell,Intel Core i5 8250U 1.6GHz
+118,HP,Intel Core i5 8250U 1.6GHz
+119,HP,Intel Core i7 8550U 1.8GHz
+120,Dell,Intel Core i7 8550U 1.8GHz
+121,Asus,Intel Core i3 6006U 2GHz
+122,Asus,Intel Core i7 8550U 1.8GHz
+123,Acer,Intel Core i3 7100U 2.4GHz
+124,MSI,Intel Core i7 7700HQ 2.8GHz
+125,Lenovo,Intel Core i5 7200U 2.5GHz
+126,HP,Intel Core i7 8550U 1.8GHz
+127,Acer,AMD A9-Series 9420 3GHz
+128,HP,Intel Celeron Dual Core N3060 1.6GHz
+129,HP,Intel Core i5 8250U 1.6GHz
+130,Asus,AMD E-Series 6110 1.5GHz
+131,Dell,Intel Core i7 8550U 1.8GHz
+132,HP,Intel Core i5 8250U 1.6GHz
+133,Dell,Intel Core i5 7200U 2.5GHz
+134,Dell,Intel Core i3 6006U 2GHz
+135,Acer,Intel Core i7 8550U 1.8GHz
+136,Acer,Intel Core i3 7130U 2.7GHz
+137,HP,Intel Core i7 7500U 2.7GHz
+138,HP,Intel Core i7 8550U 1.8GHz
+139,Lenovo,Intel Celeron Dual Core N3350 1.1GHz
+140,Asus,Intel Core i5 7300HQ 2.5GHz
+141,Lenovo,Intel Core i5 7200U 2.5GHz
+142,HP,Intel Core i5 7200U 2.5GHz
+143,Acer,Intel Core i3 7130U 2.7GHz
+144,Lenovo,Intel Core i5 8250U 1.6GHz
+145,Lenovo,Intel Core i7 7700HQ 2.8GHz
+146,Toshiba,Intel Core i5 6200U 2.3GHz
+147,HP,AMD A6-Series 9220 2.5GHz
+148,Asus,Intel Core i7 8550U 1.8GHz
+149,HP,Intel Core M 6Y75 1.2GHz
+150,Asus,Intel Celeron Dual Core N3350 1.1GHz
+151,MSI,Intel Core i7 7700HQ 2.8GHz
+152,Acer,Intel Core i3 6006U 2GHz
+153,Dell,Intel Core i7 7700HQ 2.8GHz
+154,Dell,Intel Core i7 7700HQ 2.8GHz
+155,Lenovo,Intel Core i5 7200U 2.5GHz
+156,MSI,Intel Core i7 7700HQ 2.8GHz
+157,HP,Intel Core i5 7500U 2.7GHz
+158,HP,Intel Core i5 8250U 1.6GHz
+159,Lenovo,Intel Core i3 7100U 2.4GHz
+160,Asus,Intel Core i5 8250U 1.6GHz
+161,Dell,Intel Core i7 8550U 1.8GHz
+163,Toshiba,Intel Core i3 6006U 2.2GHz
+164,Asus,AMD A9-Series 9420 3GHz
+165,Acer,Intel Core i5 8250U 1.6GHz
+166,Dell,Intel Core i5 8250U 1.6GHz
+167,Lenovo,Intel Core i7 7700HQ 2.8GHz
+168,Acer,Intel Celeron Dual Core N3350 1.1GHz
+169,MSI,Intel Core i7 7700HQ 2.8GHz
+170,Acer,Intel Pentium Quad Core N4200 1.1GHz
+171,Dell,Intel Core i7 7700HQ 2.8GHz
+172,Acer,Intel Core i5 8250U 1.6GHz
+173,HP,Intel Core i5 8250U 1.6GHz
+174,Huawei,Intel Core i5 7200U 2.5GHz
+175,HP,Intel Core i5 7200U 2.5GHz
+176,Lenovo,AMD A6-Series 9220 2.9GHz
+177,Toshiba,Intel Core i3 7100U 2.4GHz
+178,HP,Intel Core i5 8250U 1.6GHz
+179,Dell,Intel Core i3 7100U 2.4GHz
+180,Acer,Intel Core i3 6006U 2GHz
+181,MSI,Intel Core i7 6920HQ 2.9GHz
+182,Lenovo,Intel Core i5 7200U 2.5GHz
+183,HP,Intel Core i5 8250U 1.6GHz
+184,Dell,Intel Core i7 8550U 1.8GHz
+185,Dell,Intel Core i5 8250U 1.6GHz
+186,Lenovo,Intel Core i7 8550U 1.8GHz
+187,Toshiba,Intel Core i5 7200U 2.5GHz
+188,Xiaomi,Intel Core i5 8250U 1.6GHz
+189,Dell,Intel Core i7 8550U 1.8GHz
+190,Dell,Intel Core i7 7700HQ 2.8GHz
+191,Lenovo,Intel Core i5 7300HQ 2.5GHz
+192,Acer,Intel Core i5 7Y54 1.2GHz
+193,Dell,Intel Core i7 8550U 1.8GHz
+194,Lenovo,Intel Core i7 7500U 2.7GHz
+195,Vero,Intel Celeron Dual Core N3350 1.1GHz
+196,Xiaomi,Intel Core i5 7200U 2.5GHz
+197,Lenovo,Intel Core i5 8250U 1.6GHz
+198,Dell,Intel Core i7 8550U 1.8GHz
+199,HP,Intel Core i5 8250U 1.6GHz
+200,Razer,Intel Core i7 7820HK 2.9GHz
+201,HP,Intel Core i5 8250U 1.6GHz
+202,HP,Intel Core i7 7700HQ 2.8GHz
+203,HP,Intel Core i7 8550U 1.8GHz
+204,Dell,Intel Core i7 7700HQ 2.8GHz
+205,Lenovo,Intel Core i5 6200U 2.3GHz
+206,Acer,Intel Core i7 7500U 2.7GHz
+207,Lenovo,Intel Core i7 7700HQ 2.8GHz
+208,Dell,Intel Xeon E3-1505M V6 3GHz
+209,Lenovo,Intel Core i7 7700HQ 2.8GHz
+210,Dell,Intel Core i3 7100U 2.4GHz
+211,Dell,Intel Core i7 8550U 1.8GHz
+212,Dell,Intel Core i7 8550U 1.8GHz
+213,Lenovo,Intel Core i5 7200U 2.5GHz
+215,Acer,Intel Core i7 7700HQ 2.8GHz
+216,Asus,Intel Core i7 7700HQ 2.8GHz
+217,HP,Intel Core i3 6006U 2GHz
+218,Lenovo,Intel Core i5 7200U 2.5GHz
+219,Huawei,Intel Core i7 7500U 2.7GHz
+220,Dell,Intel Core i7 8550U 1.8GHz
+221,Lenovo,Intel Core i5 7200U 2.5GHz
+222,HP,Intel Core i7 8550U 1.8GHz
+223,Dell,Intel Core i5 8250U 1.6GHz
+224,Dell,Intel Core i7 8550U 1.8GHz
+225,Dell,Intel Core i5 8250U 1.6GHz
+226,Lenovo,Intel Core i5 8250U 1.6GHz
+227,Toshiba,Intel Core i7 6500U 2.5GHz
+228,HP,Intel Core i5 8250U 1.6GHz
+229,Dell,Intel Core i7 7700HQ 2.8GHz
+230,Acer,Intel Core i7 7500U 2.7GHz
+231,Dell,Intel Core i7 7500U 2.7GHz
+232,Asus,Intel Core i5 7200U 2.5GHz
+233,Asus,Intel Core i5 7200U 2.5GHz
+234,HP,Intel Core i7 7500U 2.7GHz
+235,Asus,Intel Core i3 7100U 2.4GHz
+236,HP,AMD E-Series 9000e 1.5GHz
+237,Lenovo,Intel Core i7 7700HQ 2.8GHz
+238,Dell,Intel Core i5 7200U 2.5GHz
+239,Acer,Intel Core i5 6200U 2.3GHz
+240,Dell,Intel Core i7 7500U 2.7GHz
+241,Acer,Intel Core i3 6006U 2GHz
+242,Asus,AMD A10-Series A10-9620P 2.5GHz
+243,Asus,Intel Core i7 7820HK 2.9GHz
+244,Acer,Intel Core i5 7300HQ 2.5GHz
+245,Lenovo,Intel Core i3 6006U 2GHz
+246,Asus,Intel Core i7 8550U 1.8GHz
+247,Asus,Intel Core i7 7500U 2.7GHz
+248,Dell,Intel Core i5 7300HQ 2.5GHz
+249,Lenovo,Intel Core i7 7500U 2.7GHz
+250,Dell,Intel Core i7 8550U 1.8GHz
+251,HP,Intel Core i5 7200U 2.5GHz
+252,Asus,Intel Core i7 7820HK 2.9GHz
+253,HP,Intel Core i5 8250U 1.6GHz
+254,Apple,Intel Core i5 3.1GHz
+255,Dell,Intel Core i7 8550U 1.8GHz
+256,Asus,Intel Core i7 7700HQ 2.8GHz
+257,Asus,AMD A9-Series 9420 3GHz
+258,Lenovo,Intel Core i7 8550U 1.8GHz
+259,Acer,Intel Core i3 7130U 2.7GHz
+260,Dell,Intel Core i5 8250U 1.6GHz
+261,HP,AMD A6-Series A6-9220 2.5GHz
+262,HP,Intel Core i7 8550U 1.8GHz
+263,MSI,Intel Core i7 7700HQ 2.8GHz
+264,Lenovo,Intel Core i7 7700HQ 2.8GHz
+265,Dell,Intel Core i7 8550U 1.8GHz
+266,Lenovo,Intel Core i3 6006U 2GHz
+267,HP,Intel Core i5 8250U 1.6GHz
+268,Dell,Intel Core i5 7200U 2.5GHz
+269,Dell,Intel Core i5 7200U 2.5GHz
+270,Dell,Intel Core i5 8250U 1.6GHz
+271,Asus,Intel Core i7 8550U 1.8GHz
+272,Lenovo,Intel Core i5 7200U 2.5GHz
+273,HP,Intel Core i7 8550U 1.8GHz
+274,Lenovo,Intel Core i7 8550U 1.8GHz
+275,Apple,Intel Core i5 2.9GHz
+276,Asus,AMD Ryzen 1700 3GHz
+277,Dell,Intel Core i7 8550U 1.8GHz
+278,Lenovo,Intel Core i7 6600U 2.6GHz
+279,Toshiba,Intel Core i7 6500U 2.5GHz
+280,Dell,Intel Core i7 7500U 2.7GHz
+281,Dell,Intel Core i7 8550U 1.8GHz
+282,Acer,Intel Core i7 8550U 1.8GHz
+283,Lenovo,Intel Core i3 6006U 2GHz
+284,Lenovo,Intel Core i7 8550U 1.8GHz
+285,Lenovo,Intel Core i7 7500U 2.7GHz
+286,Dell,Intel Core i3 6006U 2.0GHz
+287,Lenovo,Intel Core i5 7300HQ 2.5GHz
+288,Lenovo,Intel Core i5 7200U 2.5GHz
+289,Acer,Intel Core i7 8550U 1.8GHz
+290,Acer,Intel Core i7 7500U 2.7GHz
+291,Lenovo,Intel Core i7 7500U 2.7GHz
+292,Asus,Intel Core i5 7200U 2.5GHz
+293,Lenovo,Intel Core i7 7700HQ 2.8GHz
+294,Lenovo,Intel Core i7 7500U 2.7GHz
+295,Acer,Intel Celeron Dual Core 3205U 1.5GHz
+296,Asus,Intel Core i7 7700HQ 2.8GHz
+297,HP,Intel Core i3 6006U 2GHz
+298,Dell,Intel Core i7 7700HQ 2.8GHz
+299,Lenovo,Intel Core i5 8250U 1.6GHz
+300,Lenovo,Intel Core i7 7700HQ 2.8GHz
+301,Acer,Intel Core i7 7700HQ 2.8GHz
+302,Dell,Intel Core i7 7820HQ 2.9GHz
+303,Lenovo,AMD A10-Series 9600P 2.4GHz
+304,Asus,Intel Core i7 7500U 2.7GHz
+305,Asus,Intel Core i3 7100U 2.4GHz
+306,Asus,Intel Core i7 7700HQ 2.8GHz
+307,Lenovo,Intel Core i5 7200U 2.5GHz
+308,Lenovo,Intel Core i5 7200U 2.5GHz
+309,Asus,Intel Core i7 7700HQ 2.8GHz
+310,Lenovo,Intel Pentium Quad Core N4200 1.1GHz
+311,HP,Intel Core i7 7600U 2.8GHz
+312,Toshiba,Intel Core i7 6500U 2.5GHz
+313,Lenovo,Intel Core i5 7200U 2.5GHz
+314,HP,Intel Core i3 6006U 2GHz
+315,Lenovo,Intel Core i5 7200U 2.5GHz
+316,Dell,Intel Core i7 8550U 1.8GHz
+317,MSI,Intel Core i7 7700HQ 2.8GHz
+318,Acer,AMD A8-Series 7410 2.2GHz
+319,Asus,Intel Celeron Dual Core N3350 1.1GHz
+320,Dell,Intel Core i5 8250U 1.6GHz
+321,HP,Intel Core i7 8550U 1.8GHz
+322,Lenovo,Intel Celeron Dual Core 3855U 1.6GHz
+323,HP,Intel Core i5 7200U 2.5GHz
+324,Acer,Intel Pentium Quad Core N3710 1.6GHz
+325,HP,Intel Core i7 7500U 2.7GHz
+326,Lenovo,Intel Core i5 7200U 2.5GHz
+327,Asus,Intel Core i7 7500U 2.7GHz
+329,HP,Intel Core i7 8550U 1.8GHz
+330,Acer,AMD A12-Series 9720P 2.7GHz
+331,Lenovo,Intel Celeron Dual Core N3350 1.1GHz
+332,Acer,Intel Core i5 7200U 2.5GHz
+333,Asus,Intel Core i7 7500U 2.7GHz
+334,HP,Intel Core i7 7500U 2.7GHz
+335,Dell,Intel Core i7 7700HQ 2.8GHz
+336,MSI,Intel Core i7 7700HQ 2.8GHz
+337,Toshiba,Intel Core i5 7200U 2.5GHz
+338,Asus,Intel Core i7 7500U 2.7GHz
+339,Lenovo,Intel Core i3 6006U 2GHz
+340,Asus,Intel Core i7 7700HQ 2.8GHz
+341,HP,Intel Core i5 7300U 2.6GHz
+342,Dell,Intel Core i5 8250U 1.6GHz
+343,HP,Intel Core i5 7200U 2.5GHz
+344,Asus,Intel Celeron Dual Core N3350 1.1GHz
+345,Dell,Intel Core i5 8250U 1.6GHz
+346,Dell,Intel Celeron Dual Core N3060 1.6GHz
+347,Lenovo,AMD A12-Series 9720P 3.6GHz
+348,HP,Intel Core i3 7100U 2.4GHz
+349,Lenovo,Intel Core i7 8550U 1.8GHz
+350,Dell,Intel Core i7 8550U 1.8GHz
+351,Lenovo,Intel Core i7 7700HQ 2.8GHz
+352,HP,Intel Celeron Dual Core N3060 1.6GHz
+353,Dell,Intel Core i7 8650U 1.9GHz
+354,Asus,Intel Celeron Dual Core N3350 1.1GHz
+355,Dell,Intel Core i5 8250U 1.6GHz
+356,Dell,Intel Core i7 7700HQ 2.8GHz
+357,HP,Intel Core i7 7500U 2.7GHz
+358,MSI,Intel Core i7 7700HQ 2.8GHz
+359,HP,Intel Core i7 7700HQ 2.8GHz
+360,Toshiba,Intel Core i7 6500U 2.5GHz
+361,Dell,Intel Core i7 8550U 1.8GHz
+362,Lenovo,Intel Celeron Dual Core N3350 1.1GHz
+363,Dell,Intel Core i5 7300HQ 2.5GHz
+364,Dell,Intel Core i5 7200U 2.5GHz
+365,Dell,Intel Core i5 7300U 2.6GHz
+366,HP,Intel Core i3 6006U 2GHz
+367,Asus,Intel Core i5 7200U 2.5GHz
+368,Lenovo,Intel Core i5 7200U 2.5GHz
+369,HP,Intel Core i5 7200U 2.5GHz
+370,Lenovo,Intel Core i3 6006U 2GHz
+371,HP,Intel Pentium Quad Core N3710 1.6GHz
+372,Dell,Intel Core i5 8250U 1.6GHz
+373,Lenovo,Intel Core i5 7300HQ 2.5GHz
+374,Dell,Intel Core i7 7500U 2.7GHz
+375,HP,Intel Core i7 7500U 2.7GHz
+376,Asus,Intel Core i7 7500U 2.7GHz
+377,Acer,AMD A9-Series 9420 3GHz
+378,Asus,AMD Ryzen 1700 3GHz
+379,Lenovo,AMD A8-Series 7410 2.2GHz
+380,Dell,Intel Core i7 8550U 1.8GHz
+381,HP,AMD A9-Series 9420 3GHz
+382,Lenovo,Intel Celeron Quad Core N3450 1.1GHz
+383,Dell,Intel Celeron Dual Core N3060 1.60GHz
+384,Asus,Intel Celeron Dual Core N3350 1.1GHz
+385,Acer,Intel Core i7 7700HQ 2.8GHz
+386,HP,Intel Core i7 7700HQ 2.8GHz
+387,Lenovo,Intel Core i3 6006U 2GHz
+388,Asus,Intel Core i7 7700HQ 2.8GHz
+389,Lenovo,Intel Core i5 7200U 2.5GHz
+390,Asus,Intel Core i7 7500U 2.7GHz
+391,Lenovo,Intel Core i7 7500U 2.7GHz
+392,Lenovo,Intel Core i3 7100U 2.4GHz
+393,Dell,Intel Core i5 6440HQ 2.6GHz
+394,Dell,Intel Core i7 6820HQ 2.7GHz
+395,Lenovo,Intel Core i7 7500U 2.7GHz
+396,Asus,Intel Core i7 7700HQ 2.8GHz
+397,Asus,Intel Core i7 7700HQ 2.8GHz
+399,Acer,Intel Core i5 8250U 1.6GHz
+400,MSI,Intel Core i7 7700HQ 2.8GHz
+401,Dell,Intel Core i7 7500U 2.7GHz
+402,HP,AMD A9-Series 9420 3GHz
+403,Lenovo,Intel Core i7 8550U 1.8GHz
+404,Lenovo,Intel Core i5 7200U 2.5GHz
+405,Dell,Intel Core i7 7700HQ 2.8GHz
+406,Lenovo,Intel Core i7 7500U 2.7GHz
+407,Lenovo,Intel Celeron Dual Core N3350 1.1GHz
+408,Asus,Intel Core i7 7700HQ 2.8GHz
+409,Lenovo,Intel Core i5 8250U 1.6GHz
+410,Acer,Intel Core i7 7700HQ 2.8GHz
+411,MSI,Intel Core i7 7700HQ 2.8GHz
+412,Asus,Intel Core i7 7500U 2.7GHz
+413,Toshiba,Intel Core i7 6500U 2.5GHz
+414,Dell,Intel Core i7 7600U 2.8GHz
+415,Lenovo,Intel Core i3 6006U 2GHz
+416,Lenovo,Intel Celeron Dual Core N3350 1.1GHz
+417,Lenovo,Intel Core i7 7700HQ 2.8GHz
+418,Lenovo,Intel Core i7 7700HQ 2.8GHz
+419,HP,Intel Core i3 6006U 2GHz
+420,Acer,Intel Core i7 6500U 2.5GHz
+421,Asus,Intel Core i5 7200U 2.5GHz
+422,Dell,Intel Core i5 7200U 2.5GHz
+423,Dell,Intel Core i3 6006U 2GHz
+424,HP,Intel Core i7 6500U 2.5GHz
+425,Dell,Intel Core i5 7200U 2.5GHz
+426,Lenovo,Intel Core i7 8550U 1.8GHz
+427,Lenovo,Intel Core i7 7700HQ 2.8GHz
+428,Chuwi,Intel Celeron Quad Core N3450 1.1GHz
+429,HP,Intel Core i7 7820HQ 2.9GHz
+430,Asus,Intel Core i3 7100U 2.4GHz
+431,Dell,Intel Core i7 7820HK 2.9GHz
+432,Dell,Intel Core i7 7700HQ 2.8GHz
+433,Dell,Intel Core i7 8550U 1.8GHz
+434,Dell,Intel Core i7 7600U 2.8GHz
+435,HP,Intel Core i7 7700HQ 2.8GHz
+436,Mediacom,Intel Celeron Dual Core N3350 1.1GHz
+437,Samsung,Intel Celeron Dual Core N3060 1.6GHz
+438,Lenovo,Intel Core i7 7500U 2.7GHz
+439,Lenovo,Intel Core i3 7130U 2.7GHz
+440,Lenovo,Intel Core i7 7600U 2.8GHz
+441,Lenovo,Intel Core i7 7820HQ 2.9GHz
+442,Asus,AMD Ryzen 1600 3.2GHz
+443,HP,Intel Celeron Dual Core N3060 1.6GHz
+444,Google,Intel Core i7 7Y75 1.3GHz
+445,Lenovo,Intel Core i7 7500U 2.7GHz
+446,Asus,Intel Core i5 7200U 2.5GHz
+447,Lenovo,AMD A6-Series 9220 2.5GHz
+448,Dell,Intel Core i5 8250U 1.6GHz
+449,Lenovo,Intel Core i5 7200U 2.5GHz
+450,Lenovo,Intel Pentium Quad Core N4200 1.1GHz
+451,HP,Intel Core i7 7700HQ 2.8GHz
+452,Dell,Intel Core i5 7440HQ 2.8GHz
+453,Acer,Intel Core i5 7200U 2.5GHz
+454,Dell,Intel Xeon E3-1505M V6 3GHz
+455,MSI,Intel Core i5 7300HQ 2.5GHz
+456,Microsoft,Intel Core i7 7660U 2.5GHz
+457,HP,Intel Core i5 7200U 2.5GHz
+458,Dell,Intel Core i7 6820HQ 2.7GHz
+459,HP,Intel Core i7 7820HQ 2.9GHz
+460,Lenovo,Intel Core i5 7200U 2.5GHz
+461,Dell,Intel Core i7 8550U 1.8GHz
+462,Dell,Intel Pentium Quad Core N3710 1.6GHz
+463,Dell,Intel Core i7 7700HQ 2.7GHz
+464,Microsoft,Intel Core M m3-7Y30 2.2GHz
+465,Microsoft,Intel Core i7 7660U 2.5GHz
+466,HP,Intel Core i3 6006U 2GHz
+467,Acer,Intel Core i3 6006U 2GHz
+468,Acer,Intel Celeron Dual Core N3060 1.6GHz
+469,Asus,Intel Core i5 7200U 2.5GHz
+470,Lenovo,Intel Core i7 7500U 2.7GHz
+471,Lenovo,Intel Core i7 7820HQ 2.9GHz
+472,Asus,Intel Pentium Quad Core N4200 1.1GHz
+473,Acer,Intel Core i3 6006U 2GHz
+474,Dell,Intel Core i5 8250U 1.6GHz
+475,HP,Intel Core i7 7700HQ 2.8GHz
+476,Lenovo,Intel Core i7 6600U 2.6GHz
+477,HP,Intel Core i7 8550U 1.8GHz
+478,HP,Intel Core i5 7200U 2.5GHz
+479,Google,Intel Core i5 7Y57 1.2GHz
+480,Dell,Intel Core i5 8250U 1.6GHz
+481,Asus,Intel Core i7 6700HQ 2.6GHz
+482,Dell,Intel Core i3 6100U 2.3GHz
+483,Dell,Intel Core i7 7700HQ 2.8GHz
+484,Lenovo,Intel Core i5 7200U 2.5GHz
+485,Dell,Intel Core i5 8250U 1.6GHz
+486,Toshiba,Intel Core i5 7200U 2.5GHz
+487,Dell,Intel Core i7 8550U 1.8GHz
+488,Dell,Intel Core i3 7100U 2.4GHz
+489,HP,Intel Core i5 8250U 1.6GHz
+490,Chuwi,Intel Atom x5-Z8350 1.44GHz
+491,Lenovo,Intel Core i3 6006U 2.0GHz
+492,Lenovo,Intel Core i5 8250U 1.6GHz
+493,Dell,Intel Core i7 6820HQ 2.7GHz
+494,Dell,Intel Core i7 7700HQ 2.8GHz
+495,Lenovo,Intel Core i7 7500U 2.7GHz
+496,Asus,Intel Core i7 7500U 2.7GHz
+497,Lenovo,Intel Core i5 7200U 2.5GHz
+498,Toshiba,Intel Core i7 7500U 2.7GHz
+499,Asus,Intel Core i7 7700HQ 2.8GHz
+500,Acer,AMD A10-Series 9620P 2.5GHz
+501,Asus,Intel Core i7 6700HQ 2.6GHz
+502,Lenovo,Intel Core i5 6200U 2.3GHz
+503,Lenovo,Intel Core i7 8550U 1.8GHz
+504,HP,Intel Core i7 7600U 2.8GHz
+505,Lenovo,Intel Core i3 7100U 2.4GHz
+506,Lenovo,Intel Core i5 7200U 2.5GHz
+507,Asus,Intel Celeron Dual Core N3350 1.1GHz
+508,HP,Intel Core i5 7200U 2.5GHz
+509,Lenovo,Intel Core i5 8250U 1.6GHz
+510,Lenovo,Intel Celeron Dual Core N3350 1.1GHz
+511,Lenovo,Intel Celeron Dual Core N3060 1.6GHz
+512,Lenovo,Intel Core i5 7200U 2.5GHz
+513,Asus,Intel Core i7 7500U 2.7GHz
+514,Acer,Intel Core i5 8250U 1.6GHz
+515,HP,Intel Core i7 7500U 2.7GHz
+516,Lenovo,Intel Core i7 7700HQ 2.8GHz
+517,Dell,Intel Core i5 7200U 2.5GHz
+518,Acer,Intel Core i7 7500U 2.7GHz
+519,Dell,Intel Core i5 7200U 2.5GHz
+520,Dell,Intel Core i7 8550U 1.8GHz
+521,Xiaomi,Intel Core i7 8550U 1.8GHz
+522,Asus,Intel Celeron Dual Core N3350 1.1GHz
+523,HP,Intel Core i5 8250U 1.6GHz
+524,Asus,Intel Core i7 7700HQ 2.8GHz
+525,HP,Intel Core i5 7200U 2.5GHz
+526,Asus,Intel Core i7 7700HQ 2.8GHz
+527,Lenovo,Intel Core i7 7700HQ 2.8GHz
+528,HP,Intel Core i7 7500U 2.7GHz
+529,Dell,Intel Core i5 7300U 2.6GHz
+530,HP,Intel Core i3 6006U 2GHz
+531,Dell,Intel Core i5 8250U 1.6GHz
+532,Lenovo,Intel Core i5 6200U 2.3GHz
+533,Lenovo,Intel Core i7 7500U 2.7GHz
+534,Lenovo,Intel Core i3 6006U 2GHz
+535,Dell,Intel Core i5 7200U 2.5GHz
+536,Dell,Intel Core i5 7440HQ 2.8GHz
+537,Dell,Intel Core i7 7700HQ 2.8GHz
+538,Toshiba,Intel Core i5 7200U 2.5GHz
+539,Asus,Intel Core i7 7500U 2.7GHz
+540,Mediacom,Intel Celeron Quad Core N3450 1.1GHz
+541,Asus,Intel Core i5 7300HQ 2.5GHz
+542,Dell,Intel Core i7 7600U 2.8GHz
+543,Dell,Intel Core i5 8250U 1.6GHz
+544,HP,Intel Pentium Quad Core N3710 1.6GHz
+545,HP,Intel Core i7 7700HQ 2.8GHz
+546,Lenovo,Intel Core i7 7500U 2.7GHz
+547,Dell,Intel Core i7 8550U 1.8GHz
+548,Dell,Intel Core i3 6006U 2GHz
+549,HP,Intel Core i7 7500U 2.7GHz
+550,Acer,Intel Core i5 7300HQ 2.5GHz
+551,Asus,AMD E-Series 7110 1.8GHz
+552,HP,Intel Core i3 7100U 2.4GHz
+553,Lenovo,Intel Core i5 7200U 2.5GHz
+554,Lenovo,Intel Core i5 6200U 2.3GHz
+555,HP,Intel Core i3 6006U 2GHz
+556,Lenovo,Intel Core i7 7500U 2.7GHz
+557,Lenovo,Intel Core i3 6006U 2GHz
+558,Dell,Intel Core i5 7200U 2.5GHz
+559,Dell,Intel Core i7 7700HQ 2.8GHz
+560,HP,Intel Core i3 6006U 2GHz
+561,HP,Intel Core i7 7500U 2.7GHz
+562,Asus,Intel Celeron Dual Core N3350 1.1GHz
+563,Mediacom,Intel Atom x5-Z8350 1.44GHz
+564,Lenovo,Intel Core i7 7500U 2.7GHz
+565,HP,AMD A10-Series A10-9620P 2.5GHz
+566,Dell,Intel Core i3 6006U 2GHz
+567,Acer,Intel Celeron Dual Core N3350 2.0GHz
+568,Lenovo,Intel Core i3 7130U 2.7GHz
+569,HP,Intel Core M 6Y75 1.2GHz
+570,Lenovo,Intel Core i7 7700HQ 2.8GHz
+571,Asus,Intel Core i5 7300HQ 2.5GHz
+572,Dell,Intel Core i5 8250U 1.6GHz
+573,Dell,Intel Core i5 7300U 2.6GHz
+574,Fujitsu,Intel Core i5 7200U 2.5GHz
+575,Lenovo,Intel Pentium Quad Core N4200 1.1GHz
+576,Lenovo,Intel Core i5 7200U 2.5GHz
+577,HP,Intel Core i5 7440HQ 2.8GHz
+578,HP,Intel Pentium Quad Core N3710 1.6GHz
+579,HP,AMD A9-Series A9-9420 3GHz
+580,Lenovo,Intel Core i5 7200U 2.5GHz
+581,Lenovo,Intel Core i5 8250U 1.6GHz
+582,Mediacom,Intel Atom x5-Z8350 1.44GHz
+583,Toshiba,Intel Core i7 7500U 2.7GHz
+584,Lenovo,Intel Core i7 6820HK 2.7GHz
+585,MSI,Intel Core i7 7820HK 2.9GHz
+586,Dell,Intel Core i7 7500U 2.7GHz
+587,Mediacom,Intel Celeron Quad Core N3450 1.1GHz
+588,Dell,Intel Core i5 7300U 2.6GHz
+589,HP,Intel Core i3 7100U 2.4GHz
+590,Dell,Intel Core i7 7600U 2.8GHz
+591,Dell,Intel Celeron Dual Core N3060 1.6GHz
+592,MSI,Intel Core i7 6820HK 2.7GHz
+593,HP,Intel Core i7 7700HQ 2.8GHz
+594,Lenovo,Intel Core i7 6600U 2.6GHz
+595,Lenovo,Intel Core i7 8550U 1.8GHz
+596,Asus,Intel Core i5 7300HQ 2.5GHz
+597,Asus,Intel Core i5 7200U 2.5GHz
+598,Lenovo,AMD A12-Series 9720P 3.6GHz
+599,Dell,Intel Core M 7Y30 1.0GHz
+600,Samsung,Intel Core i7 7700HQ 2.8GHz
+601,Lenovo,Intel Core i3 6006U 2GHz
+602,Lenovo,Intel Core i3 6100U 2.3GHz
+603,Lenovo,Intel Core i7 7500U 2.7GHz
+604,Lenovo,Intel Core i5 7300HQ 2.5GHz
+605,Dell,Intel Core i5 7200U 2.5GHz
+606,Dell,Intel Core i7 7700HQ 2.8GHz
+607,HP,Intel Core i7 7500U 2.7GHz
+608,HP,Intel Core i3 7100U 2.4GHz
+609,Acer,Intel Celeron Quad Core N3450 1.1GHz
+610,MSI,Intel Core i7 6820HK 2.7GHz
+611,Dell,Intel Core i3 6006U 2GHz
+612,MSI,Intel Core i7 7700HQ 2.8GHz
+613,Toshiba,Intel Core i7 6500U 2.5GHz
+614,Lenovo,Intel Core i5 7200U 2.5GHz
+615,Lenovo,Intel Core i7 7700HQ 2.8GHz
+616,Acer,Intel Pentium Quad Core N3710 1.6GHz
+617,Lenovo,Intel Xeon E3-1535M v6 3.1GHz
+618,Dell,Intel Core i7 6700HQ 2.6GHz
+619,Dell,Intel Core i3 6006U 2.0GHz
+620,Dell,Intel Core i3 6006U 2.0GHz
+621,Dell,Intel Core i5 7300U 2.6GHz
+622,Asus,Intel Core i7 7700HQ 2.8GHz
+623,Dell,Intel Core i5 7200U 2.5GHz
+624,HP,Intel Core i7 7500U 2.7GHz
+625,MSI,Intel Core i7 7700HQ 2.8GHz
+626,Acer,Intel Celeron Quad Core N3160 1.6GHz
+627,HP,Intel Core i5 7300U 2.6GHz
+628,Lenovo,Intel Core i5 6200U 2.3GHz
+629,Dell,Intel Core i5 8250U 1.6GHz
+630,Fujitsu,Intel Core i5 7200U 2.5GHz
+631,HP,Intel Core i5 6200U 2.3GHz
+632,Lenovo,Intel Core i7 7500U 2.7GHz
+633,Mediacom,Intel Atom x5-Z8350 1.44GHz
+634,Lenovo,Intel Core i5 7200U 2.5GHz
+635,Asus,Intel Core i5 7200U 2.5GHz
+636,Dell,Intel Core i7 7700HQ 2.8GHz
+637,Asus,Intel Core i7 7500U 2.7GHz
+639,Dell,Intel Core i7 7700HQ 2.8GHz
+640,Lenovo,Intel Core i5 8250U 1.6GHz
+641,Lenovo,Intel Core i3 6006U 2GHz
+642,Asus,Intel Celeron Dual Core N3350 1.1GHz
+643,Asus,Intel Core i5 7300HQ 2.5GHz
+644,Dell,Intel Core i5 8250U 1.6GHz
+645,Lenovo,Intel Celeron Dual Core N3060 1.6GHz
+646,Lenovo,Intel Core i7 7500U 2.7GHz
+647,Dell,Intel Core i7 7700HQ 2.8GHz
+648,Lenovo,Intel Core i7 7700HQ 2.8GHz
+649,HP,AMD A9-Series 9420 3GHz
+650,Lenovo,Intel Core i7 7500U 2.7GHz
+651,Asus,Intel Core i7 7700HQ 2.8GHz
+652,Acer,Intel Core i3 6006U 2GHz
+653,Lenovo,Intel Celeron Dual Core N3060 1.6GHz
+654,Acer,Intel Core i5 7200U 2.5GHz
+655,Razer,Intel Core i7 7700HQ 2.8GHz
+656,Toshiba,Intel Core i5 6200U 2.3GHz
+657,Lenovo,Intel Core i7 7500U 2.7GHz
+658,Asus,Intel Core i7 6820HK 2.7GHz
+659,Acer,Intel Core i5 7300HQ 2.5GHz
+660,Dell,Intel Core i5 8250U 1.6GHz
+661,MSI,Intel Core i7 7700HQ 2.8GHz
+662,HP,Intel Core i3 6006U 2GHz
+663,Toshiba,Intel Core i5 7200U 2.5GHz
+664,Dell,Intel Core i7 8550U 1.8GHz
+665,Dell,Intel Core i7 8550U 1.8GHz
+666,Lenovo,Intel Core i7 6700HQ 2.6GHz
+667,Dell,Intel Core i7 7700HQ 2.8GHz
+668,Dell,Intel Core i5 6300U 2.4GHz
+669,Lenovo,Intel Celeron Dual Core N3350 1.1GHz
+670,Lenovo,Intel Core i5 6200U 2.3GHz
+671,HP,Intel Core i3 6006U 2GHz
+672,MSI,Intel Core i7 7700HQ 2.8GHz
+673,Toshiba,Intel Core i3 6100U 2.1GHz
+674,Dell,Intel Core i5 7200U 2.5GHz
+675,HP,Intel Core i7 7500U 2.7GHz
+676,Toshiba,Intel Core i5 7200U 2.5GHz
+677,Acer,Intel Core i3 6006U 2GHz
+678,Microsoft,Intel Core i7 7600U 2.8GHz
+679,Lenovo,Intel Core i5 7200U 2.5GHz
+680,Lenovo,Intel Core i5 7200U 2.5GHz
+681,Lenovo,AMD E-Series E2-9000 2.2GHz
+682,HP,Intel Core i3 7100U 2.4GHz
+683,MSI,Intel Core i7 7700HQ 2.8GHz
+684,Asus,Intel Core i5 7200U 2.5GHz
+685,HP,Intel Celeron Dual Core N3350 1.1GHz
+686,LG,Intel Core i7 8550U 1.8GHz
+687,Acer,Intel Core i5 7300HQ 2.5GHz
+688,MSI,Intel Core i5 7300HQ 2.5GHz
+689,Asus,Intel Celeron Dual Core N3350 1.1GHz
+690,Dell,Intel Core i5 7300HQ 2.5GHz
+691,HP,Intel Core i3 6006U 2GHz
+692,Lenovo,Intel Core i7 8550U 1.8GHz
+693,Dell,Intel Core i7 7820HK 2.9GHz
+694,HP,Intel Core i5 7200U 2.5GHz
+695,Dell,Intel Core i3 6006U 2GHz
+696,HP,AMD A10-Series 9600P 2.4GHz
+697,Lenovo,Intel Celeron Dual Core 3855U 1.6GHz
+698,Acer,Intel Celeron Dual Core 3855U 1.6GHz
+699,Lenovo,Intel Core i5 7200U 2.5GHz
+700,HP,Intel Core i7 7700HQ 2.8GHz
+701,Lenovo,Intel Core i7 7500U 2.7GHz
+702,Toshiba,Intel Core i5 7200U 2.5GHz
+703,Acer,Intel Celeron Dual Core N3050 1.6GHz
+704,Lenovo,Intel Core i7 7500U 2.7GHz
+705,Asus,Intel Core M M3-6Y30 0.9GHz
+706,Toshiba,Intel Core i7 6500U 2.5GHz
+707,HP,Intel Core i7 7500U 2.7GHz
+708,Dell,Intel Core i5 7300HQ 2.5GHz
+709,Lenovo,AMD A9-Series 9420 2.9GHz
+710,Lenovo,AMD A12-Series 9720P 3.6GHz
+711,Lenovo,Intel Core i5 7200U 2.5GHz
+712,Lenovo,Intel Core i3 6006U 2GHz
+713,Dell,Intel Core i5 7200U 2.5GHz
+714,Acer,Intel Core i5 8250U 1.6GHz
+715,Lenovo,Intel Core i7 6500U 2.5GHz
+716,Lenovo,Intel Core i5 6300HQ 2.3GHz
+717,HP,AMD A10-Series 9620P 2.5GHz
+718,Lenovo,Intel Core i7 7700HQ 2.8GHz
+719,Dell,Intel Core i5 7440HQ 2.8GHz
+720,Dell,Intel Core i5 7200U 2.5GHz
+721,Asus,Intel Celeron Dual Core N3350 1.1GHz
+722,Dell,Intel Core i5 7300U 2.6GHz
+723,Lenovo,Intel Core i5 7200U 2.5GHz
+724,Dell,Intel Core i5 7300U 2.6GHz
+725,Lenovo,AMD A6-Series 7310 2GHz
+726,Mediacom,Intel Atom Z8350 1.92GHz
+727,HP,Intel Core i7 7500U 2.7GHz
+728,Lenovo,Intel Core i7 6500U 2.5GHz
+729,HP,Intel Core i5 7200U 2.5GHz
+730,Lenovo,Intel Core i5 7200U 2.5GHz
+731,Dell,Intel Core i7 7700HQ 2.8GHz
+732,MSI,Intel Core i7 7700HQ 2.8GHz
+733,Lenovo,Intel Core i5 7200U 2.5GHz
+734,Dell,Intel Core i5 8250U 1.6GHz
+735,Dell,Intel Core i3 7100U 2.4GHz
+736,Dell,Intel Core i5 7200U 2.5GHz
+737,HP,AMD A9-Series 9420 3GHz
+738,Acer,Intel Core i7 6700HQ 2.6GHz
+739,Dell,Intel Core i5 7200U 2.5GHz
+740,HP,AMD A9-Series A9-9420 3GHz
+741,Acer,Intel Core i5 7200U 2.5GHz
+742,Lenovo,Intel Core i5 7200U 2.5GHz
+743,Lenovo,Intel Core i7 7500U 2.7GHz
+744,HP,Intel Core i7 7700HQ 2.8GHz
+745,Dell,Intel Core i5 8250U 1.6GHz
+746,MSI,Intel Core i7 7700HQ 2.8GHz
+747,Acer,Intel Core i3 6006U 2GHz
+748,Dell,Intel Core i7 7500U 2.7GHz
+749,Dell,Intel Core i3 6006U 2GHz
+750,Toshiba,Intel Core i5 7200U 2.5GHz
+751,Lenovo,Intel Core i5 7200U 2.5GHz
+752,Lenovo,Intel Core i7 7600U 2.8GHz
+753,Acer,Intel Celeron Dual Core N3060 1.6GHz
+754,Samsung,Intel Core i7 7500U 2.7GHz
+755,HP,Intel Core i3 6006U 2GHz
+757,Dell,Intel Core i5 7200U 2.5GHz
+758,HP,Intel Xeon E3-1535M v5 2.9GHz
+759,Lenovo,Intel Celeron Dual Core N3060 1.6GHz
+760,HP,Intel Core i5 6300U 2.4GHz
+761,Asus,Intel Core i5 6300HQ 2.3GHz
+762,Lenovo,Intel Core i5 6200U 2.3GHz
+763,Asus,Intel Core i7 7500U 2.7GHz
+764,Lenovo,Intel Core i5 6260U 1.8GHz
+765,HP,Intel Core i5 7300HQ 2.5GHz
+766,HP,Intel Core i7 6700HQ 2.6GHz
+767,Dell,Intel Core i7 7700HQ 2.8GHz
+768,Acer,Intel Core i5 7200U 2.5GHz
+769,Lenovo,Intel Core i7 7700HQ 2.8GHz
+770,Dell,Intel Core i7 7600U 2.8GHz
+771,Google,Intel Core i5 7Y57 1.2GHz
+772,Asus,Intel Core i5 7200U 2.5GHz
+773,Dell,Intel Core i3 6006U 2GHz
+774,Acer,Intel Core i5 6200U 2.3GHz
+775,Asus,Intel Pentium Quad Core N4200 1.1GHz
+776,Dell,Intel Core i7 6700HQ 2.6GHz
+777,Samsung,Intel Core i7 7500U 2.7GHz
+778,Acer,Intel Pentium Quad Core N4200 1.1GHz
+779,Dell,Intel Core i7 7500U 2.7GHz
+780,Samsung,Intel Core i7 7500U 2.7GHz
+781,Toshiba,Intel Core i5 6200U 2.3GHz
+782,Dell,Intel Core i7 7700HQ 2.8GHz
+783,HP,Intel Core i5 6200U 2.3GHz
+784,Asus,Intel Core i7 7500U 2.7GHz
+785,Lenovo,Intel Core i7 6820HQ 2.7GHz
+786,Acer,Intel Core i3 7100U 2.4GHz
+787,Razer,Intel Core i7 7700HQ 2.8GHz
+788,Asus,Intel Pentium Dual Core N4200 1.1GHz
+789,Dell,Intel Core i7 7700HQ 2.8GHz
+790,Asus,Intel Core i7 6700HQ 2.6GHz
+791,Toshiba,Intel Core i7 6600U 2.6GHz
+792,Lenovo,Intel Celeron Quad Core N3710 1.6GHz
+793,Lenovo,Intel Core i7 7500U 2.7GHz
+794,MSI,Intel Core i7 7700HQ 2.8GHz
+795,MSI,Intel Core i5 7300HQ 2.5GHz
+796,Lenovo,Intel Core i7 7700HQ 2.8GHz
+797,Acer,Intel Core i7 7700HQ 2.8GHz
+798,Dell,Intel Core i5 7300HQ 2.5GHz
+799,Asus,Intel Core i7 7700HQ 2.8GHz
+800,Vero,Intel Celeron Dual Core N3350 1.1GHz
+801,Lenovo,Intel Core i7 7500U 2.7GHz
+802,Lenovo,Intel Core i5 7200U 2.5GHz
+803,Apple,Intel Core M 1.2GHz
+804,Lenovo,Intel Core i5 7200U 2.5GHz
+805,Asus,Intel Celeron Dual Core N3350 1.1GHz
+806,Dell,Intel Core i5 7200U 2.5GHz
+807,Lenovo,Intel Core i7 7500U 2.7GHz
+808,Dell,Intel Core i3 6006U 2GHz
+809,HP,Intel Core i7 7700HQ 2.8GHz
+810,Asus,Intel Core i5 7200U 2.5GHz
+811,Dell,Intel Core i5 7200U 2.5GHz
+812,Dell,Intel Core i5 7300HQ 2.5GHz
+813,Dell,Intel Pentium Quad Core N4200 1.1GHz
+814,HP,Intel Core i5 7300U 2.6GHz
+815,Toshiba,Intel Core i5 6200U 2.3GHz
+816,HP,AMD A12-Series 9700P 2.5GHz
+817,Dell,Intel Core i7 7700HQ 2.8GHz
+818,Lenovo,Intel Core i5 7200U 2.5GHz
+819,HP,Intel Core i7 7700HQ 2.8GHz
+820,MSI,Intel Core i7 7700HQ 2.8GHz
+821,Samsung,Intel Core i5 7200U 2.5GHz
+822,Dell,Intel Core i7 7500U 2.7GHz
+823,Dell,Intel Core i5 7200U 2.5GHz
+824,Lenovo,Intel Core i7 7500U 2.7GHz
+825,Razer,Intel Core i7 7500U 2.5GHz
+826,HP,Intel Celeron Dual Core N3060 1.6GHz
+827,Dell,Intel Core i7 7700HQ 2.8GHz
+828,Dell,Intel Core i5 6200U 2.3GHz
+829,Lenovo,Intel Core i3 6006U 2GHz
+830,Toshiba,Intel Core i5 7200U 2.5GHz
+831,Lenovo,Intel Core i7 7500U 2.7GHz
+832,MSI,Intel Core i5 7300HQ 2.5GHz
+833,Lenovo,Intel Core i5 7200U 2.5GHz
+834,Toshiba,Intel Pentium Dual Core 4405U 2.1GHz
+835,Asus,Intel Core i5 7200U 2.5GHz
+836,Dell,Intel Core i3 6006U 2GHz
+837,Acer,Intel Celeron Dual Core N3060 1.6GHz
+838,Acer,Intel Core i3 7100U 2.4GHz
+839,Razer,Intel Core i7 7820HK 2.9GHz
+840,Lenovo,Intel Core i7 6600U 2.6GHz
+841,Asus,Intel Core i5 7200U 2.5GHz
+842,Lenovo,Intel Core i5 6200U 2.3GHz
+843,Lenovo,Intel Core i5 7300U 2.6GHz
+844,Dell,Intel Core i7 7700HQ 2.8GHz
+845,Asus,Intel Core i7 7700HQ 2.8GHz
+846,Toshiba,Intel Core i3 7100U 2.4GHz
+847,Lenovo,Intel Celeron Quad Core N3160 1.6GHz
+848,Asus,Intel Core i5 7200U 2.5GHz
+849,Asus,Intel Core i7 6700HQ 2.6GHz
+851,Dell,Intel Core i7 7700HQ 2.8GHz
+852,HP,Intel Core i5 7200U 2.5GHz
+853,Dell,Intel Core i5 7200U 2.5GHz
+854,HP,Intel Core i7 6500U 2.5GHz
+855,Dell,Intel Core i7 7500U 2.7GHz
+856,HP,Intel Celeron Dual Core N3350 1.1GHz
+857,Asus,Intel Core i5 6200U 2.3GHz
+858,HP,Intel Core i5 7200U 2.5GHz
+859,HP,Intel Core i7 6500U 2.5GHz
+860,HP,Intel Celeron Dual Core N3060 1.6GHz
+862,Asus,Intel Core i7 7700HQ 2.8GHz
+863,Dell,Intel Core i7 7500U 2.7GHz
+864,Lenovo,Intel Core i7 7700HQ 2.8GHz
+865,Asus,Intel Core i7 7500U 2.7GHz
+866,Dell,Intel Core i5 7200U 2.5GHz
+867,Asus,Intel Pentium Quad Core N4200 1.1GHz
+868,HP,Intel Core i7 7600U 2.8GHz
+869,Dell,Intel Core i5 6200U 2.3GHz
+870,Lenovo,Intel Core i3 6006U 2.0GHz
+871,Lenovo,Intel Core i5 7200U 2.5GHz
+872,HP,Intel Core i5 7300U 2.6GHz
+873,Toshiba,Intel Core i5 7200U 2.5GHz
+874,Lenovo,Intel Core i5 7300HQ 2.5GHz
+875,Dell,Intel Core i7 7660U 2.5GHz
+876,HP,Intel Core i5 6200U 2.3GHz
+877,Toshiba,Intel Core i5 6200U 2.3GHz
+878,Lenovo,Intel Core i7 7500U 2.7GHz
+879,Acer,Intel Core i5 7200U 2.5GHz
+880,Dell,Intel Core i7 7700HQ 2.8GHz
+881,Lenovo,Intel Core i5 7200U 2.5GHz
+882,Lenovo,Intel Core i3 6006U 2GHz
+883,Toshiba,Intel Core i7 7500U 2.7GHz
+884,Lenovo,Intel Core i3 7100U 2.4GHz
+885,Samsung,Intel Core i7 7500U 2.7GHz
+886,Dell,Intel Core i7 7600U 2.8GHz
+887,Asus,Intel Pentium Quad Core N4200 1.1GHz
+888,Xiaomi,Intel Core i5 6200U 2.3GHz
+889,Dell,Intel Core i5 7200U 2.5GHz
+890,HP,Intel Core i5 7200U 2.5GHz
+891,HP,Intel Core i5 7200U 2.5GHz
+892,HP,Intel Core i5 7200U 2.5GHz
+893,Asus,Intel Celeron Dual Core N3350 1.1GHz
+894,Lenovo,Intel Core i7 6500U 2.5GHz
+895,Dell,Intel Pentium Quad Core N3710 1.6GHz
+896,HP,Intel Core i5 7200U 2.5GHz
+897,Dell,Intel Core i3 6006U 2.0GHz
+898,Asus,Intel Core i5 7300HQ 2.5GHz
+899,Acer,Intel Celeron Dual Core N3060 1.6GHz
+900,Lenovo,AMD A4-Series 7210 2.2GHz
+901,HP,Intel Core i5 7200U 2.5GHz
+902,HP,Intel Core i7 7500U 2.7GHz
+903,Samsung,Intel Core i7 7500U 2.7GHz
+904,Lenovo,Intel Core i5 7200U 2.5GHz
+905,MSI,Intel Core i7 6700HQ 2.6GHz
+906,Toshiba,Intel Core i5 7200U 2.5GHz
+908,Dell,Intel Core i7 7700HQ 2.8GHz
+909,HP,Intel Core i7 7500U 2.7GHz
+910,Dell,Intel Core i3 6006U 2.0GHz
+911,Dell,Intel Core i5 7300U 2.6GHz
+912,Dell,Intel Core i7 7Y75 1.3GHz
+913,Asus,Intel Core i7 6820HK 2.7GHz
+914,Dell,Intel Core i7 7Y75 1.3GHz
+915,Lenovo,Intel Core i7 7500U 2.7GHz
+916,Lenovo,Intel Core i5 7200U 2.5GHz
+917,LG,Intel Core i7 7500U 2.7GHz
+918,HP,Intel Core i7 7500U 2.7GHz
+919,Acer,Intel Celeron Dual Core 3205U 1.5GHz
+920,Lenovo,Intel Core i5 6300HQ 2.3GHz
+922,LG,Intel Core i7 7500U 2.7GHz
+923,Dell,Intel Core i5 7440HQ 2.8GHz
+924,HP,Intel Core M 6Y75 1.2GHz
+925,Lenovo,Intel Core i7 7500U 2.7GHz
+926,HP,Intel Core i7 7500U 2.7GHz
+927,Acer,Intel Core i3 7100U 2.4GHz
+928,Lenovo,Intel Core i5 7200U 2.5GHz
+930,HP,Intel Core i5 7200U 2.5GHz
+931,MSI,Intel Core i7 7700HQ 2.8GHz
+932,Dell,Intel Core i7 7700HQ 2.8GHz
+933,MSI,Intel Core i5 7300HQ 2.5GHz
+934,Dell,Intel Core i5 7200U 2.5GHz
+935,HP,Intel Core i7 6500U 2.5GHz
+936,HP,Intel Core i7 7500U 2.7GHz
+937,Toshiba,Intel Core i7 6600U 2.6GHz
+938,Lenovo,Intel Core i5 7200U 2.5GHz
+939,Dell,Intel Core i5 6200U 2.3GHz
+940,Lenovo,Intel Core i7 7500U 2.7GHz
+941,HP,Intel Core i5 6200U 2.3GHz
+942,Dell,Intel Core i5 7200U 2.5GHz
+943,HP,Intel Core i5 6200U 2.3GHz
+944,Lenovo,Intel Pentium Quad Core N4200 1.1GHz
+945,HP,Intel Core i5 6200U 2.3GHz
+946,HP,Intel Celeron Dual Core N3060 1.6GHz
+947,Lenovo,Intel Core i7 6560U 2.2GHz
+948,Toshiba,Intel Core i5 6200U 2.3GHz
+949,HP,Intel Core i5 6200U 2.3GHz
+950,Dell,Intel Core i3 6006U 2.0GHz
+951,MSI,Intel Core i7 7700HQ 2.8GHz
+952,Dell,Intel Core i5 7200U 2.5GHz
+953,Dell,Intel Core i7 6820HK 2.7GHz
+954,HP,Intel Core i5 6300HQ 2.3GHz
+955,Asus,Intel Pentium Quad Core N3710 1.6GHz
+956,Acer,Intel Core i5 7200U 2.5GHz
+957,Toshiba,Intel Core i5 6200U 2.3GHz
+958,Lenovo,Intel Core M m7-6Y75 1.2GHz
+959,Lenovo,AMD FX 8800P 2.1GHz
+960,Dell,Intel Core i5 7200U 2.5GHz
+961,Lenovo,Intel Core i7 7500U 2.7GHz
+962,Dell,Intel Core i3 6006U 2.0GHz
+963,Acer,Intel Celeron Dual Core N3060 1.6GHz
+964,HP,Intel Core i7 6820HQ 2.7GHz
+965,Dell,Intel Core i7 7600U 2.8GHz
+966,Toshiba,Intel Core i5 6200U 2.3GHz
+967,Asus,Intel Core M M7-6Y75 1.2GHz
+968,Lenovo,Intel Core i7 6600U 2.6GHz
+969,Dell,Intel Core i7 7700HQ 2.8GHz
+970,Dell,Intel Core i5 7Y54 1.2GHz
+971,HP,Intel Pentium Quad Core N4200 1.1GHz
+972,Dell,Intel Core i7 6500U 2.5GHz
+973,Acer,Intel Celeron Dual Core N3060 1.6GHz
+974,Toshiba,Intel Core i5 6300U 2.4GHz
+975,Lenovo,Intel Core i5 7300U 2.6GHz
+976,Acer,Intel Core i5 7200U 2.5GHz
+977,Toshiba,Intel Core i7 7500U 2.7GHz
+978,HP,Intel Core i5 7200U 2.50GHz
+979,Dell,Intel Core i3 6006U 2.0GHz
+980,Dell,Intel Core i5 7200U 2.5GHz
+981,HP,Intel Core i3 7100U 2.4GHz
+982,Dell,Intel Core i7 7700HQ 2.8GHz
+983,Lenovo,Intel Core i5 7200U 2.5GHz
+984,Dell,Intel Core i7 7Y75 1.3GHz
+985,Dell,Intel Core i7 6600U 2.6GHz
+986,Dell,Intel Core i7 6700HQ 2.6GHz
+987,Toshiba,Intel Core i5 6200U 2.3GHz
+988,Asus,Intel Core i7 7700HQ 2.8GHz
+989,HP,Intel Core i5 7200U 2.70GHz
+990,Lenovo,Intel Core i5 6200U 2.3GHz
+991,Asus,Intel Core i7 7500U 2.7GHz
+992,HP,Intel Core i7 7500U 2.7GHz
+993,Asus,Intel Core i7 7700HQ 2.8GHz
+994,Dell,Intel Core i7 7500U 2.7GHz
+995,Toshiba,Intel Core i5 6200U 2.3GHz
+996,Lenovo,AMD A12-Series 9720P 3.6GHz
+997,Fujitsu,Intel Core i5 6200U 2.3GHz
+998,Toshiba,Intel Core i5 6200U 2.3GHz
+999,Dell,Intel Core i5 7200U 2.5GHz
+1000,HP,Intel Core i5 7200U 2.5GHz
+1001,Lenovo,Intel Core i7 7700HQ 2.8GHz
+1002,Dell,Intel Core i7 7500U 2.7GHz
+1003,Dell,Intel Core i5 7200U 2.5GHz
+1004,HP,Intel Core M 6Y75 1.2GHz
+1005,HP,Intel Core i3 6006U 2GHz
+1006,Lenovo,Intel Celeron Dual Core N3350 1.1GHz
+1007,Lenovo,Intel Core i5 6200U 2.3GHz
+1008,Dell,Intel Core i5 7200U 2.5GHz
+1009,Asus,Intel Core i5 7200U 2.5GHz
+1010,HP,Intel Core i7 7500U 2.7GHz
+1011,Acer,Intel Pentium Quad Core N4200 1.1GHz
+1012,Asus,Intel Core i7 7700HQ 2.8GHz
+1013,HP,Intel Core i7 7500U 2.7GHz
+1014,Acer,Intel Core i7 7700HQ 2.8GHz
+1015,HP,Intel Core i5 7200U 2.5GHz
+1016,Dell,Intel Core i3 7100U 2.4GHz
+1017,HP,Intel Core i5 7200U 2.5GHz
+1018,Toshiba,Intel Core i5 6200U 2.3GHz
+1019,HP,Intel Core i5 6300U 2.4GHz
+1020,HP,Intel Core i5 7200U 2.5GHz
+1021,HP,Intel Core i7 6600U 2.6GHz
+1022,HP,Intel Core i5 7200U 2.5GHz
+1023,HP,Intel Core i3 7100U 2.4GHz
+1024,Dell,Intel Core i5 7300HQ 2.5GHz
+1025,HP,Intel Core i5 7200U 2.5GHz
+1026,HP,Intel Core i5 7200U 2.5GHz
+1027,HP,Intel Core i7 6500U 2.5GHz
+1028,HP,Intel Core i3 7100U 2.4GHz
+1029,Toshiba,Intel Core i5 6200U 2.3GHz
+1030,HP,Intel Core i3 7100U 2.4GHz
+1031,Lenovo,Intel Core i7 6820HQ 2.7GHz
+1032,Toshiba,Intel Core i5 6200U 2.3GHz
+1033,HP,Intel Core i7 6500U 2.5GHz
+1034,Dell,Intel Core i3 6100U 2.3GHz
+1035,Toshiba,Intel Core i5 6200U 2.3GHz
+1036,HP,Intel Core i5 7200U 2.5GHz
+1037,HP,Intel Core i7 7500U 2.7GHz
+1038,Dell,Intel Core i5 6300U 2.4GHz
+1039,HP,Intel Core i5 7200U 2.5GHz
+1040,HP,Intel Core i5 7200U 2.5GHz
+1041,HP,Intel Core i5 7200U 2.5GHz
+1042,Dell,Intel Core i5 7200U 2.5GHz
+1043,HP,Intel Core i5 7200U 2.5GHz
+1044,HP,Intel Core i5 7200U 2.5GHz
+1045,Acer,AMD A9-Series 9420 3GHz
+1046,MSI,Intel Core i7 7700HQ 2.8GHz
+1047,HP,Intel Core i5 6200U 2.3GHz
+1048,HP,Intel Core i7 6500U 2.5GHz
+1049,HP,Intel Core i7 6500U 2.5GHz
+1050,HP,Intel Core i5 7200U 2.5GHz
+1051,Toshiba,Intel Core i7 6600U 2.6GHz
+1052,Dell,Intel Core i5 6300U 2.4GHz
+1053,HP,Intel Core i5 7200U 2.5GHz
+1054,Lenovo,Intel Core i7 6500U 2.5GHz
+1055,Vero,Intel Atom X5-Z8350 1.44GHz
+1056,Toshiba,Intel Core i7 6500U 2.5GHz
+1057,Lenovo,Intel Core i5 6200U 2.3GHz
+1058,HP,Intel Core i5 6200U 2.3GHz
+1059,HP,Intel Core i5 6300U 2.4GHz
+1060,HP,Intel Core i5 6200U 2.3GHz
+1061,MSI,Intel Core i7 6820HK 2.7GHz
+1062,Lenovo,Intel Core i7 6700HQ 2.6GHz
+1063,Asus,Intel Celeron Dual Core N3060 1.6GHz
+1064,Lenovo,Intel Core i7 6600U 2.6GHz
+1065,HP,Intel Core i7 7500U 2.7GHz
+1066,Dell,Intel Core i5 7200U 2.7GHz
+1067,HP,Intel Core i5 7200U 2.5GHz
+1068,Dell,Intel Core i7 7500U 2.7GHz
+1069,HP,Intel Core i3 6100U 2.3GHz
+1070,HP,Intel Core i5 7200U 2.5GHz
+1071,Acer,AMD A8-Series 7410 2.2GHz
+1072,Dell,Intel Core i7 7500U 2.7GHz
+1073,MSI,Intel Core i7 6700HQ 2.6GHz
+1074,HP,Intel Core i7 7500U 2.7GHz
+1075,Asus,Intel Core i7 6700HQ 2.6GHz
+1076,Dell,Intel Core i5 7200U 2.5GHz
+1077,Dell,Intel Core i7 7500U 2.7GHz
+1079,MSI,Intel Core i7 6700HQ 2.6GHz
+1080,Dell,Intel Core i7 7500U 2.7GHz
+1081,Asus,Intel Core i7 6820HK 2.7GHz
+1082,Dell,Intel Core i7 6500U 2.5GHz
+1083,Dell,Intel Core i7 6700HQ 2.6GHz
+1084,Apple,Intel Core M 1.1GHz
+1085,Dell,Intel Core i3 6100U 2.3GHz
+1086,HP,Intel Core i5 6200U 2.3GHz
+1087,HP,Intel Core i5 6200U 2.3GHz
+1088,HP,Intel Core i7 7500U 2.7GHz
+1089,Lenovo,Intel Core i7 6500U 2.5GHz
+1090,Lenovo,Intel Core i5 6200U 2.3GHz
+1091,Lenovo,Intel Core i5 6300HQ 2.3GHz
+1092,MSI,Intel Core i7 7700HQ 2.8GHz
+1093,Lenovo,Intel Core i5 6200U 2.3GHz
+1094,HP,Intel Core i5 6200U 2.3GHz
+1095,Lenovo,Intel Core M 6Y75 1.2GHz
+1096,Lenovo,Intel Core i7 6820HK 2.7GHz
+1097,Lenovo,Intel Atom x5-Z8550 1.44GHz
+1098,HP,Intel Core i7 7500U 2.7GHz
+1099,Dell,Intel Core i5 7200U 2.5GHz
+1100,HP,Intel Core i5 6200U 2.3GHz
+1101,HP,Intel Core i7 6500U 2.5GHz
+1102,Lenovo,Intel Core i5 6200U 2.3GHz
+1103,HP,Intel Pentium Dual Core 4405Y 1.5GHz
+1104,Acer,AMD A8-Series 7410 2.2GHz
+1105,Dell,Intel Pentium Quad Core N3700 1.6GHz
+1106,HP,Intel Core i3 6006U 2GHz
+1107,Asus,Intel Core i7 7700HQ 2.8GHz
+1108,Dell,Intel Core i5 8250U 1.6GHz
+1109,HP,Intel Core i5 6200U 2.3GHz
+1110,Acer,Intel Core i5 7200U 2.5GHz
+1111,Dell,Intel Core i5 7200U 2.5GHz
+1112,MSI,Intel Core i7 6700HQ 2.6GHz
+1113,HP,Intel Pentium Quad Core N3710 1.6GHz
+1114,Asus,Intel Core i7 6700HQ 2.6GHz
+1115,Dell,Intel Core i3 6100U 2.3GHz
+1116,Dell,Intel Core i3 6100U 2.3GHz
+1117,Acer,Intel Celeron Dual Core 3205U 1.5GHz
+1118,HP,Intel Core i7 6700HQ 2.6GHz
+1119,Lenovo,Intel Core i7 7700HQ 2.8GHz
+1120,Dell,Intel Core i5 6200U 2.3GHz
+1121,MSI,Intel Core i7 6700HQ 2.6GHz
+1122,Lenovo,Intel Core i5 6200U 2.3GHz
+1123,HP,AMD A6-Series 9220 2.5GHz
+1124,Asus,Intel Core i7 6700HQ 2.6GHz
+1125,HP,Intel Core M 6Y54 1.1GHz
+1126,Dell,Intel Core i5 6200U 2.3GHz
+1127,Lenovo,Intel Core i3 6006U 2.0GHz
+1128,HP,Intel Core i7 6500U 2.5GHz
+1129,Lenovo,Intel Atom x5-Z8550 1.44GHz
+1130,Dell,Intel Core i7 7560U 2.4GHz
+1131,Lenovo,Intel Core i7 6820HK 2.7GHz
+1132,Razer,Intel Core i7 6500U 2.5GHz
+1133,Toshiba,Intel Core i7 7500U 2.7GHz
+1134,Asus,Intel Core i7 6700HQ 2.6GHz
+1135,Vero,Intel Atom X5-Z8350 1.44GHz
+1136,HP,Intel Core i5 6200U 2.3GHz
+1137,HP,Intel Core i5 6200U 2.3GHz
+1138,Dell,Intel Core i5 6200U 2.3GHz
+1139,Asus,Intel Core i3 7100U 2.4GHz
+1140,Lenovo,Intel Core i7 6500U 2.5GHz
+1141,Lenovo,Intel Atom x5-Z8550 1.44GHz
+1142,HP,Intel Core i5 6300U 2.4GHz
+1143,Lenovo,Intel Core i5 7300HQ 2.5GHz
+1144,HP,Intel Core i5 6300HQ 2.3GHz
+1145,HP,Intel Core i7 7500U 2.7GHz
+1146,Lenovo,Intel Core i7 6600U 2.6GHz
+1147,Asus,Intel Celeron Dual Core N3350 1.1GHz
+1148,HP,Intel Core i7 7500U 2.7GHz
+1149,Acer,Intel Core i5 7200U 2.5GHz
+1150,Lenovo,Intel Core i7 6500U 2.5GHz
+1151,HP,Intel Core i7 6700HQ 2.6GHz
+1153,Dell,Intel Core i5 7200U 2.5GHz
+1154,MSI,Intel Core i7 6820HQ 2.7GHz
+1155,HP,Intel Core i7 6500U 2.5GHz
+1156,Lenovo,Intel Core i7 6600U 2.6GHz
+1157,MSI,Intel Core i7 7700HQ 2.8GHz
+1160,HP,Intel Core i5 6300U 2.4GHz
+1161,HP,Intel Core i7 6700HQ 2.6GHz
+1162,HP,Intel Core i7 6600U 2.6GHz
+1163,HP,Intel Core i7 6700HQ 2.6GHz
+1164,HP,Intel Core i7 6500U 2.50GHz
+1165,Dell,Intel Core i7 7500U 2.7GHz
+1166,HP,Intel Core i5 6200U 2.3GHz
+1167,Lenovo,Intel Core i7 6500U 2.5GHz
+1168,Lenovo,Intel Core i3 6006U 2.0GHz
+1169,HP,AMD E-Series 7110 1.8GHz
+1170,Lenovo,Intel Core i5 6200U 2.3GHz
+1171,Dell,Intel Core i7 7700HQ 2.8GHz
+1172,Dell,Intel Core i5 6300HQ 2.3GHz
+1173,HP,AMD A6-Series A6-9220 2.5GHz
+1174,MSI,Intel Core i7 7700HQ 2.8GHz
+1175,Lenovo,Intel Core i7 6600U 2.6GHz
+1176,Lenovo,Intel Core i5 6200U 2.3GHz
+1177,HP,Intel Core i7 6600U 2.6GHz
+1178,Lenovo,Intel Core i7 6600U 2.6GHz
+1179,MSI,Intel Core i7 6700HQ 2.6GHz
+1180,HP,Intel Core i7 7700HQ 2.8GHz
+1181,Lenovo,Intel Core i3 6006U 2.0GHz
+1182,HP,Intel Core i5 6200U 2.3GHz
+1183,Dell,Intel Core i7 7700HQ 2.8GHz
+1184,Lenovo,Intel Core i5 7200U 2.5GHz
+1185,Lenovo,Intel Core i3 6006U 2GHz
+1186,HP,Intel Celeron Dual Core N3060 1.6GHz
+1187,MSI,Intel Core i7 7500U 2.7GHz
+1188,HP,Intel Core i7 6500U 2.5GHz
+1189,HP,Intel Core i7 8550U 1.8GHz
+1190,Asus,Intel Celeron Dual Core N3050 1.6GHz
+1191,Lenovo,Intel Core i5 6200U 2.3GHz
+1192,Lenovo,Intel Core i7 7500U 2.7GHz
+1193,Asus,Intel Core i3 7100U 2.4GHz
+1194,Lenovo,Intel Core i7 6500U 2.5GHz
+1195,Lenovo,Intel Core i7 6700HQ 2.6GHz
+1196,MSI,Intel Core i7 6700HQ 2.6GHz
+1197,HP,Intel Core i3 6100U 2.3GHz
+1198,Lenovo,Intel Core i5 6200U 2.3GHz
+1199,Lenovo,Intel Core i7 7500U 2.7GHz
+1200,Dell,Intel Core i7 7500U 2.7GHz
+1201,Acer,Intel Celeron Dual Core N3350 2GHz
+1202,HP,Intel Core i7 6700HQ 2.6GHz
+1203,Asus,Intel Core i7 6700HQ 2.6GHz
+1204,Dell,Intel Core i7 7500U 2.7GHz
+1205,Acer,Intel Core i5 7200U 2.5GHz
+1206,Dell,Intel Core i5 6300U 2.4GHz
+1207,Acer,Intel Core i7 7700HQ 2.8GHz
+1208,Lenovo,Intel Core i5 7300HQ 2.5GHz
+1209,Samsung,Samsung Cortex A72&A53 2.0GHz
+1210,HP,Intel Core i5 7200U 2.5GHz
+1211,Apple,Intel Core M 1.1GHz
+1212,Dell,Intel Core i5 7200U 2.5GHz
+1213,HP,Intel Core i7 7700HQ 2.8GHz
+1214,Lenovo,Intel Core i3 6006U 2GHz
+1215,Asus,Intel Core i7 6700HQ 2.6GHz
+1216,Acer,Intel Celeron Dual Core N3350 2GHz
+1217,MSI,Intel Core i7 7700HQ 2.8GHz
+1218,Dell,Intel Core i3 6006U 2.0GHz
+1219,Lenovo,Intel Core i7 6500U 2.5GHz
+1220,Dell,Intel Core i7 8550U 1.8GHz
+1221,Dell,Intel Core i7 7500U 2.7GHz
+1222,Asus,Intel Core i7 6700HQ 2.6GHz
+1223,Dell,Intel Core i5 7200U 2.5GHz
+1224,HP,Intel Core i5 7200U 2.5GHz
+1225,Lenovo,AMD E-Series 9000 2.2GHz
+1226,Acer,Intel Core i3 6006U 2.0GHz
+1227,Asus,Intel Core i7 7700HQ 2.8GHz
+1228,Apple,Intel Core M 1.2GHz
+1229,Asus,Intel Core i7 7700HQ 2.8GHz
+1230,MSI,Intel Core i7 6700HQ 2.6GHz
+1231,Dell,Intel Core i5 7200U 2.5GHz
+1232,Asus,Intel Core i7 7700HQ 2.8GHz
+1233,Acer,Intel Celeron Dual Core 3205U 1.5GHz
+1234,Acer,Intel Core i3 6006U 2GHz
+1235,Lenovo,Intel Core i5 7200U 2.5GHz
+1236,Lenovo,Intel Core i7 6700HQ 2.6GHz
+1237,Acer,Intel Core i7 7Y75 1.3GHz
+1238,Lenovo,Intel Core i7 6600U 2.6GHz
+1239,MSI,Intel Core i7 6700HQ 2.6GHz
+1240,HP,AMD A12-Series 9720P 2.7GHz
+1241,Dell,Intel Core i5 6300U 2.4GHz
+1242,Dell,Intel Core i3 7100U 2.4GHz
+1243,Asus,Intel Pentium Quad Core N3710 1.6GHz
+1244,Dell,Intel Core i7 7500U 2.7GHz
+1245,Dell,Intel Core i5 7200U 2.5GHz
+1246,Lenovo,Intel Core i7 6700HQ 2.6GHz
+1247,MSI,Intel Core i7 7700HQ 2.8GHz
+1248,Lenovo,Intel Core i7 6500U 2.50GHz
+1249,Razer,Intel Core i7 7700HQ 2.8GHz
+1250,Dell,Intel Core i3 7100U 2.4GHz
+1251,MSI,Intel Core i7 7700HQ 2.8GHz
+1252,Apple,Intel Core i5 1.6GHz
+1253,HP,Intel Core i3 6006U 2GHz
+1254,HP,Intel Core i7 6500U 2.5GHz
+1255,Dell,Intel Core i5 6200U 2.3GHz
+1256,MSI,Intel Core i7 6700HQ 2.6GHz
+1257,Lenovo,Intel Core i7 7500U 2.7GHz
+1258,Lenovo,AMD A12-Series 9720P 3.6GHz
+1259,Asus,Intel Core i7 6500U 2.5GHz
+1260,Acer,Intel Core i3 6006U 2.0GHz
+1261,Dell,Intel Core i7 7500U 2.7GHz
+1262,HP,Intel Core i5 6200U 2.3GHz
+1263,Asus,Intel Core i7 7700HQ 2.8GHz
+1264,Dell,Intel Core i5 7200U 2.5GHz
+1265,Asus,Intel Core i7 6700HQ 2.6GHz
+1266,Lenovo,Intel Core i5 7200U 2.5GHz
+1267,Dell,Intel Core i5 7Y54 1.2GHz
+1268,Dell,Intel Pentium Quad Core N3710 1.6GHz
+1269,HP,AMD A6-Series 9220 2.5GHz
+1270,Lenovo,Intel Core i3 6100U 2.3GHz
+1271,Lenovo,Intel Core i5 6200U 2.3GHz
+1272,Dell,Intel Pentium Quad Core N3700 1.6GHz
+1273,Asus,Intel Celeron Dual Core N3350 1.1GHz
+1274,Asus,Intel Core i7 6700HQ 2.6GHz
+1275,Dell,Intel Core i3 6006U 2GHz
+1276,Lenovo,Intel Core i7 6500U 2.5GHz
+1277,MSI,Intel Core i7 6700HQ 2.6GHz
+1278,Lenovo,Intel Core i5 6200U 2.3GHz
+1279,Asus,Intel Core M 6Y30 0.9GHz
+1280,Dell,Intel Core i3 7100U 2.4GHz
+1281,Acer,Intel Celeron Dual Core N3060 1.6GHz
+1282,Dell,Intel Celeron Dual Core N3050 1.6GHz
+1283,Lenovo,Intel Core i7 6700HQ 2.6GHz
+1284,HP,AMD A9-Series 9410 2.9GHz
+1285,Dell,Intel Core i7 7500U 2.7GHz
+1286,HP,Intel Celeron Dual Core N3060 1.6GHz
+1287,Asus,Intel Core i7 6500U 2.5GHz
+1288,Lenovo,Intel Core i7 6500U 2.5GHz
+1289,Lenovo,Intel Core i7 6500U 2.5GHz
+1290,Lenovo,Intel Celeron Dual Core N3050 1.6GHz
+1291,HP,Intel Core i7 6500U 2.5GHz
+1292,Asus,Intel Celeron Dual Core N3050 1.6GHz
+1293,Asus,Intel Core M 6Y30 0.9GHz
+1294,Dell,Intel Core i3 7100U 2.4GHz
+1295,Acer,Intel Celeron Dual Core N3060 1.6GHz
+1296,Dell,Intel Celeron Dual Core N3050 1.6GHz
+1297,Lenovo,Intel Core i7 6700HQ 2.6GHz
+1298,HP,AMD A9-Series 9410 2.9GHz
+1299,Dell,Intel Core i7 7500U 2.7GHz
+1300,HP,Intel Celeron Dual Core N3060 1.6GHz
+1301,Asus,Intel Core i7 6500U 2.5GHz
+1302,Lenovo,Intel Core i7 6500U 2.5GHz
+1303,Lenovo,Intel Core i7 6500U 2.5GHz
+1304,Lenovo,Intel Celeron Dual Core N3050 1.6GHz
+1305,HP,Intel Core i7 6500U 2.5GHz
+1306,Asus,Intel Celeron Dual Core N3050 1.6GHz
+1307,Asus,Intel Core M 6Y30 0.9GHz
+1308,Dell,Intel Core i3 7100U 2.4GHz
+1309,Acer,Intel Celeron Dual Core N3060 1.6GHz
+1310,Dell,Intel Celeron Dual Core N3050 1.6GHz
+1311,Lenovo,Intel Core i7 6700HQ 2.6GHz
+1312,HP,AMD A9-Series 9410 2.9GHz
+1313,Dell,Intel Core i7 7500U 2.7GHz
+1314,HP,Intel Celeron Dual Core N3060 1.6GHz
+1315,Asus,Intel Core i7 6500U 2.5GHz
+1316,Lenovo,Intel Core i7 6500U 2.5GHz
+1317,Lenovo,Intel Core i7 6500U 2.5GHz
+1318,Lenovo,Intel Celeron Dual Core N3050 1.6GHz
+1319,HP,Intel Core i7 6500U 2.5GHz
+1320,Asus,Intel Celeron Dual Core N3050 1.6GHz
