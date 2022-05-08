@@ -1,3 +1,5 @@
+--Run these three create table queries, then load the correct respective data into them
+
 CREATE TABLE laptop_model_skews (
     laptop_ID        INT PRIMARY KEY,
     Company          VARCHAR (20),
