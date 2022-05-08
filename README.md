@@ -17,3 +17,8 @@ Step 2: Import the correct data into the correct tables.
  Step 3: Almost done, now simply Run the alter table and next three update queries. 
   This will add a new column to our Cpus_used table, which will let us analyse different market share, and other intresting aspect of 
   The use of different CPU OEMs
+
+All done. 
+
+The rest of the file simply contains different quries that can be run. As well as an insertion and update query that will change the database, so keep that in mind 
+when running those. 
