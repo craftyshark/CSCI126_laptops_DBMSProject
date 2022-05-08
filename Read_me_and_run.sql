@@ -25,7 +25,7 @@ CREATE TABLE Cpus_used (
 
 
 --run the above Queries to create a table, then import the formated data into the correct tables,
---then run the following queries
+--then run the following 4 queries to finish up database set up
 
 ALTER TABLE Cpus_used ADD COLUMN Cpu_oem VARCHAR (20);
 
@@ -41,6 +41,8 @@ UPDATE Cpus_used
 UPDATE Cpus_used
    SET Cpu_oem = "Samsung"
  WHERE Cpu LIKE "Samsung%";
+
+--And you're done! We can now use this database to run some intresting queries
 
 --Intresting listed query
 select A.laptop_ID,Company, Product,price_euros from laptop_model_skews A  join manufacturers B
