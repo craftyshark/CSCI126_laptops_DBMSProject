@@ -8,12 +8,15 @@ Please take a look at the Read_me_and_run.sql file. It also has similar instruct
 or in case someone skips over this read me. 
 
 In order to set up the database, follow these steps: 
+
 Step 1: Run the first three create table queries in a new database. Do not yet run anything past the second comment in the file. 
+
 Step 2: Import the correct data into the correct tables. 
   CSV File->Table
   Cpus_used.csv -> Cpus_used
   laptop_model_skews.csv -> laptop_model_skews
   manufacturers.csv -> manufacturers
+  
  Step 3: Almost done, now simply Run the alter table and next three update queries. 
   This will add a new column to our Cpus_used table, which will let us analyse different market share, and other intresting aspect of 
   The use of different CPU OEMs
