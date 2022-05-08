@@ -40,3 +40,55 @@ UPDATE Cpus_used
    SET Cpu_oem = "Samsung"
  WHERE Cpu LIKE "Samsung%";
 
+--Intresting listed query
+select A.laptop_ID,Company, Product,price_euros from laptop_model_skews A  join manufacturers B
+where A.laptop_ID <=50 and price_euros<(
+select AVG(price_euros) from manufacturers);
+
+
+--New Laptop just dropped
+INSERT INTO laptop_model_skews values (1321, "Asus", "ROG Flow X13", "1920 x 1200", "AMD Ryzen 9 5900HS", "16GB", "1TB SSD", "Nvidia GeForce RTX 3050 Ti");
+INSERT INTO manufacturers VALUES (1321, "Asus", 1499); 
+INSERT INTO Cpus_used VALUES (1321, "Asus", "AMD Ryzen 9 5900HS" , "AMD");
+
+
+--neat little aggregation queries
+
+--How many laptops do we have here altogether
+SELECT COUNT(laptop_ID) 
+  FROM laptop_model_skews;
+
+--How much does the average Asus cost? 
+SELECT AVG(Price_euros) 
+  FROM manufacturers
+ WHERE Company = "Asus";
+ 
+--How much would it cost to buy ALL Apple laptops? 
+SELECT SUM(Price_euros)
+FROM manufacturers
+WHERE Company = "Apple";
+
+--Cheapest Asus? 
+SELECT MIN(Price_euros) 
+  FROM manufacturers
+ WHERE Company = "Asus";
+
+--Most Expensive? 
+SELECT MAX(Price_euros) 
+  FROM manufacturers
+ WHERE Company = "Asus";
+ 
+ 
+--Fire sale on macbooks
+UPDATE manufacturers
+   SET Price_euros = Price_euros * 0.7
+ WHERE laptop_ID IN (
+    SELECT p.laptop_ID
+      FROM laptop_model_skews p
+     WHERE p.Product LIKE "Macbook%"
+);
+
+
+SELECT Product
+  FROM laptop_model_skews
+ WHERE Product LIKE "Macbook%";
