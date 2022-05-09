@@ -45,7 +45,7 @@ UPDATE Cpus_used
 --And you're done! We can now use this database to run some intresting queries
 
 --Intresting listed query
-select A.laptop_ID,Company, Product,price_euros from laptop_model_skews A  join manufacturers B
+select A.laptop_ID,Company, Product,price_euros from laptop_model_skews A natural join manufacturers B
 where A.laptop_ID <=50 and price_euros<(
 select AVG(price_euros) from manufacturers);
 
