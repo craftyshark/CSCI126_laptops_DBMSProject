@@ -92,7 +92,10 @@ UPDATE manufacturers
      WHERE p.Product LIKE "Macbook%"
 );
 
-
-SELECT Product
+SELECT laptop_model_skews.laptop_ID,
+       laptop_model_skews.Product,
+       manufacturers.Price_euros
   FROM laptop_model_skews
- WHERE Product LIKE "Macbook%";
+       INNER JOIN
+       manufacturers ON laptop_model_skews.Product LIKE "Macbook%" AND 
+                        laptop_model_skews.laptop_ID = manufacturers.laptop_ID;
